@@ -55,16 +55,13 @@ npm run preview
 
 ## Contributing
 
-####  ***1. Fork the Repository***  
-   Fork the repository to your own GitHub account and clone it locally.
-
-####  ***2. Create a New Branch***  
+####  ***1. Create a New Branch***  
    Always create a new branch for your work. Use descriptive names for your branches to make it clear what changes they contain.
 
-####  ***3. Make Changes***  
+####  ***2. Make Changes***  
    Implement your changes in your branch. Ensure that your code follows the project's style and conventions.
 
-####  ***4. Commit Your Changes***  
+####  ***3. Commit Your Changes***  
    Commit your changes with a clear and concise message. Follow the format:
 - `feat`: A new feature or enhancement for the project.
     - **Example:** `feat(button): add custom styling for primary buttons`
@@ -87,10 +84,10 @@ npm run preview
 - `chore`: Changes to the build process or auxiliary tools (e.g., updates to CI/CD, package manager configuration).
     - **Example:** `chore(package): update react version to 18.3`
 
-####  ***5. Push Your Changes***  
-   Push your changes to your forked repository.
+####  ***4. Push Your Changes***  
+   Push your changes to your branch.
 
-#### ***6. Create a Pull Request (PR)***  
+#### ***5. Create a Pull Request (PR)***  
    - Create a PR to the `main` branch of this repository.
    - Ensure the PR meets the following guidelines:
      - At least **1 approval** is required before merging.
